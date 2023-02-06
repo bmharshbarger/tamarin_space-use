@@ -1,3 +1,7 @@
-data-raw/ 
-figure/
-R/
+*data-raw/ 
+*figure/
+*R/
+*.Rhistory
+*.Rdata
+*/.Rproj.user/
+*tamarin_space-use
