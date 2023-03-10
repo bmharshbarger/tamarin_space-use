@@ -1,268 +1,268 @@
-Date,Time,Waypoint,LAT,LON,Habitat,Boundary,Boundary 2,Height Verbatim,Height Code,Canopy Level – Verbatim,Canopy Level Code,
-03/24/08,08:47,137,9.117334,-79.698983,Edge,Urban,Backyard,4-6 meters,3,Mid,3,
-03/24/08,08:54,138,9.117309,-79.698987,Edge,Urban,Backyard,4-6 meters,3,Mid,3,
-03/24/08,09:08,139,9.117178,-79.698675,Edge,Urban,Backyard,4-6 meters,3,Mid,3,
-03/24/08,09:16,140,9.117304,-79.698299,Edge,Urban,Backyard,> 6 meters,4,Top,5,
-03/24/08,09:26,141,9.117342,-79.698340,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-03/24/08,10:10,142,9.117295,-79.698380,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-03/24/08,10:23,143,9.117386,-79.698336,Edge,Gallery,Backyard,4-6 meters,4,Upper = Superior,4,
-03/24/08,10:30,144,9.117325,-79.698312,Edge,Gallery,Backyard,4-6 meters,4,Upper = Superior,4,
-03/24/08,10:41,145,9.117257,-79.698340,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4,
-03/24/08,10:51,146,9.117365,-79.698256,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4,
-03/24/08,11:03,147,9.117401,-79.698339,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4,
-03/24/08,11:13,148,9.117300,-79.698329,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4,
-03/24/08,11:22,149,9.117298,-79.698347,Edge,Gallery,Backyard,4-6 meters,3,Dosel Medio,3,
-03/24/08,11:32,150,9.117298,-79.698341,Edge,Gallery,Backyard,4-6 meters,3,Dosel Medio,3,
-03/24/08,11:42,151,9.117353,-79.698299,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4,
-03/24/08,11:51,152,9.117330,-79.698371,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4,
-03/24/08,12:01,153,9.117383,-79.698307,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4,
-03/24/08,12:11,154,9.117354,-79.698338,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/24/08,12:22,155,9.117473,-79.698210,Edge,Gallery,Backyard,6-10 meters,4,Superior,4,
-03/24/08,12:31,156,9.117419,-79.698266,Edge,Gallery,Backyard,6-10 meters,4,Superior,4,
-03/24/08,12:41,157,9.117341,-79.698360,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/24/08,12:53,158,9.117154,-79.698702,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/24/08,13:02,159,9.117283,-79.698998,Edge,Gallery,Backyard/Grass,6-10 meters,4,Superior,4,
-03/24/08,13:13,160,9.117393,-79.698962,Backyard Tree,,,4-6 meters,3,Mid,3,
-03/24/08,13:20,161,9.117356,-79.698978,Edge,Backyard Tree,Backyard/Grass,4-6 meters,3,Mid,3,
-03/24/08,13:33,162,9.117447,-79.699145,Edge,Gallery,Manmade,< 4m,2,sotobosque,2,
-03/24/08,13:43,163,9.117387,-79.699562,Edge,Gallery,Grass,< 4m,2,sotobosque,2,
-03/24/08,13:52,164,9.117559,-79.699850,Edge,Gallery,Grass,4-6 meters,3,sotobosque,2,
-03/24/08,14:04,165,9.117538,-79.699846,Edge,Gallery,Grass,4-6 meters,3,Mid,3,
-03/24/08,15:58,166,9.117591,-79.699391,Edge,Gallery,Grass,< 4m,2,understory,2,
-03/24/08,16:08,167,9.117613,-79.699429,Edge,Gallery,Grass,< 4m,2,understory,2,
-03/24/08,16:19,168,9.117546,-79.699372,Edge,Gallery,Grass,4-6 meters,3,mid canopy,3,
-03/24/08,16:29,169,9.117546,-79.699459,Edge,Gallery,Backyard,> 10 meters,5,Upper,4,
-03/24/08,16:39,170,9.117386,-79.699529,Edge,Gallery,Grass,> 10 meters,5,Upper,4,
-03/26/08,08:02,185,9.117247,-79.698633,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4,
-03/26/08,08:12,186,9.117243,-79.698591,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4,
-03/26/08,08:23,187,9.117227,-79.698671,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4,
-03/26/08,08:45,188,9.117227,-79.698691,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4,
-03/26/08,08:46,189,9.117149,-79.698718,,,,,,,,
-03/26/08,08:51,190,9.117208,-79.698658,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4,
-03/26/08,09:01,191,9.117207,-79.698632,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4,
-03/26/08,09:14,193,9.117326,-79.698329,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4,
-03/26/08,09:42,194,9.117363,-79.698348,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,09:52,195,9.117316,-79.698306,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,10:02,196,9.117350,-79.698335,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,10:11,197,9.117308,-79.698350,Edge,Gallery,Backyard,6-10 meters,4,Mid,3,
-03/26/08,10:23,198,9.117231,-79.698624,Edge,Gallery,Backyard,6-10 meters,4,Mid,3,
-03/26/08,10:32,199,9.117166,-79.698812,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/26/08,10:42,200,9.117416,-79.699033,Edge,Gallery,Grass,4-6 meters,3,Mid,3,
-03/26/08,10:52,201,9.117271,-79.698902,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,11:02,202,9.117272,-79.698898,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,11:12,203,9.117231,-79.698897,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,11:21,204,9.117192,-79.698914,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,11:31,205,9.117235,-79.698972,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,11:42,206,9.117271,-79.698542,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/26/08,11:53,207,9.117409,-79.698316,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,12:12,208,9.117379,-79.698344,Edge,Gallery,Backyard,6-10 meters,4,Mid,3,
-03/26/08,12:21,209,9.117366,-79.698322,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,12:33,210,9.117429,-79.698285,Backyard,,,6-10 meters,4,Upper,4,
-03/26/08,12:42,211,9.117306,-79.698331,Backyard,,,6-10 meters,4,Upper,4,
-03/26/08,12:53,212,9.117295,-79.698366,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-03/26/08,13:02,213,9.117411,-79.698283,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,13:13,214,9.117394,-79.698293,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,13:22,215,9.117495,-79.698224,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,13:32,216,9.117417,-79.698270,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,13:41,217,9.117342,-79.698362,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,13:52,218,9.117244,-79.698458,Backyard Tree,,,6-10 meters,4,Mid,3,
-03/26/08,14:01,219,9.117211,-79.698679,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/26/08,14:11,220,9.117231,-79.698974,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/26/08,14:22,221,9.117199,-79.698969,Edge,Gallery,Grass,6-10 meters,4,Mid,3,
-03/26/08,14:31,222,9.117242,-79.698980,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/26/08,14:41,223,9.117200,-79.698867,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/26/08,14:54,224,9.117187,-79.698958,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/26/08,15:03,225,9.117245,-79.699038,Edge,Gallery,Grass,6-10 meters,4,Upper,4,
-03/26/08,15:13,226,9.117267,-79.698993,Edge,Gallery,Grass,4-6 meters,3,Mid,3,
-03/26/08,15:22,227,9.117349,-79.698937,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/26/08,15:32,228,9.117366,-79.698946,Backyard Tree,,,< 4m,2,Mid,3,
-03/26/08,15:42,229,9.117182,-79.698845,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/26/08,15:51,230,9.117204,-79.698872,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/26/08,16:02,231,9.117106,-79.698900,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/26/08,16:11,232,9.117076,-79.698930,Backyard Tree,,,< 4m,2,Mid,3,
-03/26/08,16:22,233,9.116846,-79.698887,Edge,Backyard,Road,6-10 meters,4,Upper,4,
-03/26/08,16:34,234,9.116645,-79.699011,Edge,Backyard,Road,< 4m,2,Mid,3,
-03/27/08,07:23,235,9.116161,-79.699220,Edge,Backyard,Road,< 4m,2,understory,2,
-03/27/08,07:31,236,9.116325,-79.699163,Edge,Backyard,Road,< 4m,2,understory,2,
-03/27/08,07:39,237,9.116333,-79.699139,Edge,Backyard,Road,6-10 meters,4,Upper,4,
-03/27/08,07:48,238,9.116340,-79.699199,Edge,Backyard,Road,6-10 meters,4,Upper,4,
-03/27/08,07:57,239,9.116608,-79.699005,Edge,Backyard,Road,4-6 meters,3,Mid,3,
-03/27/08,08:10,240,9.117280,-79.698958,Backyard,,,< 4m,2,Mid,3,
-03/27/08,09:33,241,9.117320,-79.699048,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/27/08,09:41,242,9.117284,-79.699004,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/27/08,09:50,243,9.117372,-79.698967,Backyard,,,4-6 meters,3,Mid,3,
-03/27/08,10:02,244,9.117405,-79.699004,Edge,Gallery,Backyard,6-10 meters,4,Mid,3,
-03/27/08,10:12,245,9.117245,-79.698926,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/27/08,10:22,246,9.117178,-79.698856,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/27/08,10:34,247,9.117225,-79.698872,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/27/08,10:41,248,9.117176,-79.698881,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/27/08,10:50,249,9.117188,-79.698905,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/27/08,11:00,250,9.117085,-79.698802,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/27/08,11:02,251,9.117240,-79.698993,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/27/08,11:21,252,9.117307,-79.698969,Edge,Gallery,Backyard,6-10 meters,4,Mid,3,
-03/27/08,11:30,253,9.117288,-79.698454,Edge,Gallery,Backyard,6-10 meters,4,Mid,3,
-03/27/08,11:41,254,9.117340,-79.698307,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/27/08,11:51,255,9.117416,-79.698275,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/27/08,12:01,256,9.117401,-79.698243,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/27/08,12:10,257,9.117322,-79.698357,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-03/27/08,12:21,258,9.117206,-79.698350,Backyard Tree,,,6-10 meters,4,Upper,4,
-03/27/08,12:30,259,9.117404,-79.698307,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-03/27/08,12:41,260,9.117476,-79.698223,Edge,Gallery,Backyard,< 4m,2,understory,2,
-03/27/08,12:51,261,9.117795,-79.697997,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-03/27/08,13:03,262,9.117851,-79.697983,Backyard Tree,,,6-10 meters,4,Mid,3,
-03/27/08,13:16,263,9.118041,-79.697893,Backyard Tree,,,6-10 meters,4,Mid,3,
-03/27/08,13:19,264,9.118197,-79.697823,Backyard Tree,,,6-10 meters,4,Mid,3,
-03/27/08,13:30,265,9.118340,-79.698019,Backyard Tree,,,4-6 meters,3,Upper,4,
-03/27/08,13:40,266,9.118549,-79.698296,Backyard Tree,,,6-10 meters,4,Mid,3,
-03/27/08,13:51,267,9.118570,-79.698249,Backyard Tree,,,6-10 meters,4,Upper,4,
-03/27/08,14:00,268,9.118432,-79.698327,Backyard Tree,,,6-10 meters,4,Upper,4,
-04/08/08,11:45,1,9.117370,-79.699070,Backyard,,,< 4m,2,Mid,3,
-04/08/08,12:04,2,9.116913,-79.698712,Backyard Tree,,,4-6 meters,3,Mid,3,
-04/08/08,12:12,3,9.116930,-79.698699,Backyard Tree,,,< 4m,2,Mid,3,
-04/08/08,12:36,4,9.117079,-79.698782,Backyard Tree,,,4-6 meters,3,Mid,3,
-04/08/08,12:54,5,9.117165,-79.698725,Gallery,,,4-6 meters,3,Mid,3,
-04/08/08,12:56,6,9.117336,-79.698937,Gallery,,,4-6 meters,3,Mid,3,
-04/08/08,13:03,7,9.117322,-79.699470,Gallery,,,< 4m,2,understory,2,
-04/09/08,11:41,8,9.116823,-79.698904,Backyard Tree,,,4-6 meters,3,Mid,3,
-04/09/08,11:52,9,9.117327,-79.698915,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-04/09/08,12:05,10,9.117367,-79.698954,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-04/09/08,12:10,11,9.117246,-79.698929,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-04/09/08,12:20,12,9.117238,-79.698886,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/09/08,12:31,13,9.117251,-79.698862,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/09/08,12:52,14,9.117237,-79.698877,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/09/08,12:54,15,9.117253,-79.698895,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/09/08,13:00,16,9.117218,-79.698878,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/09/08,13:19,17,9.117176,-79.698891,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/09/08,13:20,18,9.117202,-79.698914,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/09/08,13:30,19,9.117258,-79.698960,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/09/08,13:41,20,9.117282,-79.698946,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/11/08,10:55,21,9.117273,-79.698369,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-04/11/08,11:05,22,9.117278,-79.698324,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-04/11/08,11:17,23,9.117326,-79.698938,Edge,Gallery,Backyard,< 4m,2,Mid,3,
-04/11/08,11:25,24,9.117236,-79.698932,Edge,Gallery,Backyard,6-10 meters,4,Mid,3,
-04/11/08,11:37,25,9.117260,-79.699029,Edge,Gallery,Backyard,4-6 meters,3,Upper,4,
-04/11/08,11:45,26,9.117402,-79.699047,Gallery,,,4-6 meters,3,Mid,3,
-04/11/08,12:06,27,9.117366,-79.699168,Edge,Gallery,Road,< 4m,2,understory,2,
-04/11/08,12:10,28,9.117290,-79.699494,Gallery,,,< 4m,2,understory,2,
-04/11/08,12:15,29,9.117465,-79.699729,Gallery,,,4-6 meters,3,Mid,3,
-04/11/08,12:24,30,9.117478,-79.699662,Gallery,,,4-6 meters,3,Mid,3,
-04/11/08,12:38,31,9.117484,-79.699592,Gallery,,,4-6 meters,3,Upper,4,
-04/11/08,12:45,32,9.117481,-79.699592,Gallery,,,> 10 meters,5,Upper,4,
-04/11/08,12:58,33,9.117495,-79.699591,Gallery,,,> 10 meters,5,Upper,4,
-04/11/08,13:04,34,9.117502,-79.699546,Gallery,,,> 10 meters,5,Upper,4,
-04/11/08,13:15,35,9.117403,-79.699868,Edge,Gallery,Grass,4-6 meters,3,Mid,3,
-04/11/08,13:24,36,9.117321,-79.699865,Edge,Gallery,Grass,4-6 meters,3,Mid,3,
-04/11/08,13:35,37,9.117360,-79.699823,Edge,Gallery,Grass,4-6 meters,3,Mid,3,
-04/11/08,13:44,38,9.117437,-79.699795,Edge,Gallery,Grass,4-6 meters,3,Mid,3,
-04/11/08,13:54,39,9.117438,-79.699790,Edge,Gallery,Grass,4-6 meters,3,Mid,3,
-04/16/08,10:16,40,9.117274,-79.698856,Gallery,,,6-10 meters,4,Upper,4,
-04/16/08,10:24,41,9.117269,-79.698883,Gallery,,,6-10 meters,4,Mid,3,
-04/16/08,10:37,42,9.117251,-79.698922,Gallery,,,6-10 meters,4,Mid,3,
-04/16/08,10:44,43,9.117257,-79.698925,Gallery,,,6-10 meters,4,Mid,3,
-04/16/08,10:55,44,9.117256,-79.698940,Gallery,,,6-10 meters,4,Mid,3,
-04/16/08,11:24,45,9.117121,-79.698822,Gallery,,,6-10 meters,4,Upper,4,
-04/16/08,11:43,46,9.117202,-79.698905,Gallery,,,6-10 meters,4,Mid,3,
-04/16/08,11:44,47,9.117197,-79.698922,Gallery,,,6-10 meters,4,Upper,4,
-04/16/08,11:54,48,9.117205,-79.698920,Gallery,,,6-10 meters,4,Upper,4,
-04/16/08,12:18,49,9.117315,-79.698931,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-04/16/08,12:19,50,9.117160,-79.698689,Edge,Gallery,Backyard,4-6 meters,3,Mid,3,
-04/16/08,12:23,51,9.117283,-79.698479,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-04/16/08,12:35,52,9.117331,-79.698417,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-04/16/08,12:44,53,9.117323,-79.698372,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-04/16/08,12:54,54,9.117320,-79.698313,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-04/16/08,13:04,55,9.117344,-79.698365,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-04/16/08,13:13,56,9.117329,-79.698345,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-04/16/08,13:24,57,9.117338,-79.698371,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-04/16/08,13:34,58,9.117339,-79.698383,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-04/16/08,13:48,59,9.117335,-79.698361,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-04/16/08,13:57,60,9.117332,-79.698390,Edge,Gallery,Backyard,6-10 meters,4,Top,5,
-04/16/08,14:03,61,9.117338,-79.698363,Edge,Gallery,Backyard,6-10 meters,4,Mid,3,
-04/16/08,14:13,62,9.117231,-79.698591,Edge,Gallery,Backyard,6-10 meters,4,Upper,4,
-04/16/08,14:24,63,9.117216,-79.698839,Edge,Gallery,Backyard,6-10 meters,4,Mid,3,
-04/16/08,14:34,64,9.117199,-79.698868,Gallery,,,6-10 meters,4,Mid,3,
-04/16/08,14:44,65,9.117428,-79.699079,Edge,Gallery,Road,4-6 meters,3,Mid,3,
-04/16/08,15:02,66,9.117362,-79.699242,Edge,Gallery,Road,< 4m,2,understory,2,
-04/16/08,15:04,67,9.117326,-79.699509,Edge,Gallery,Road,< 4m,2,understory,2,
-04/27/08,08:54,173,9.119305,-79.696582,Forest Edge,(backyard?),,4-6 meters,3,Upper,4,
-04/27/08,09:14,174,9.119407,-79.696584,Forest Edge,(backyard?),,4-6 meters,3,Upper,4,
-04/27/08,09:22,175,9.119233,-79.696617,Forest Edge,(backyard?),,4-6 meters,3,Upper,4,
-04/27/08,09:31,176,9.119187,-79.696666,Gallery,,,4-6 meters,3,Upper,4,
-04/27/08,09:43,177,9.118997,-79.696772,Gallery,,,4-6 meters,3,Upper,4,
-04/27/08,09:51,178,9.119026,-79.696781,Gallery,,,4-6 meters,3,Upper,4,
-04/27/08,10:01,179,9.119009,-79.696702,Gallery,,,4-6 meters,3,Upper,4,
-04/27/08,10:11,180,9.118981,-79.696728,Gallery,,,4-6 meters,3,Upper,4,
-04/27/08,10:21,181,9.119009,-79.696732,Gallery,,,4-6 meters,3,Upper,4,
-04/27/08,10:32,182,9.118994,-79.696698,Gallery,,,4-6 meters,3,Upper,4,
-04/27/08,10:44,183,9.119001,-79.696783,Gallery,,,4-6 meters,3,Mid,3,
-04/27/08,10:52,184,9.119049,-79.696966,Gallery,,,4-6 meters,3,Mid,3,
-04/27/08,11:02,185,9.119103,-79.696911,Backyard Tree,,,< 4m,2,understory,2,
-04/27/08,11:14,186,9.119223,-79.696592,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,11:25,187,9.119203,-79.696374,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,11:32,188,9.119233,-79.696380,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,11:42,189,9.119269,-79.696336,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,11:52,190,9.119248,-79.696451,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,12:03,191,9.119239,-79.696424,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,12:12,192,9.119339,-79.696362,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,12:21,193,9.119244,-79.696414,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,12:33,194,9.119193,-79.696481,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,12:43,195,9.119184,-79.696430,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,12:52,196,9.119243,-79.696411,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/27/08,13:01,197,9.119257,-79.696461,Forest Edge,?,,4-6 meters,3,Mid,3,
-04/28/08,09:49,1,9.119049,-79.69568,Edge,Forest,Backyard,6-10 meters,4,Mid,3,This MAY BE ANOTHER GROUP
-04/28/08,10:11,2,9.118954,-79.69561,Forest,,,> 10 meters,5,Upper,4,
-04/28/08,10:20,3,9.118984,-79.69561,Forest,,,> 10 meters,5,Upper,4,
-04/28/08,10:30,4,9.118820,-79.69524,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,10:39,5,9.118794,-79.69531,Forest,,,> 10 meters,5,Upper,4,
-04/28/08,10:49,6,9.118923,-79.69521,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,10:59,7,9.118958,-79.69531,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,11:09,8,9.118950,-79.69525,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,11:19,9,9.118970,-79.69530,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,11:29,10,9.118934,-79.69527,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,11:40,11,9.118961,-79.69526,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,11:49,12,9.118945,-79.69527,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,11:59,13,9.119000,-79.69522,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,12:09,14,9.119112,-79.69531,Forest,,,4-6 meters,3,Upper,4,
-04/28/08,12:20,15,9.119134,-79.69505,Forest,,,< 4m,2,understory,2,
-04/28/08,12:28,16,9.119170,-79.69507,Forest,,,< 4m,2,Mid,3,
-04/28/08,12:39,17,9.119142,-79.69501,Forest,,,< 4m,2,Mid,3,
-04/28/08,12:49,18,9.119145,-79.69501,Forest,,,< 4m,2,Mid,3,
-04/28/08,12:59,19,9.119238,-79.69501,Forest,,,< 4m,2,Mid,3,
-04/28/08,13:09,20,9.119189,-79.69506,Forest,,,< 4m,2,Mid,3,
-04/28/08,13:19,21,9.119176,-79.69496,Forest,,,< 4m,2,Mid,3,
-04/28/08,13:29,22,9.119200,-79.69501,Forest,,,< 4m,2,Mid,3,
-04/28/08,13:39,23,9.119223,-79.69482,Forest,,,4-6 meters,3,Mid,3,
-04/28/08,13:49,24,9.119156,-79.69486,Forest,,,4-6 meters,3,Mid,3,
-05/12/08,09:07,1,9.11689,-79.69894,Backyard Tree,,,6-10 meters,4,Upper,4,
-05/12/08,09:15,2,9.11683,-79.69902,Backyard Tree,,,6-10 meters,4,Upper,4,
-05/12/08,09:22,3,9.11685,-79.69895,Backyard Tree,,,6-10 meters,4,Upper,4,
-05/12/08,09:33,4,9.11732,-79.69898,,,,,,,,
-05/12/08,09:35,5,9.11720,-79.69891,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
-05/12/08,09:42,6,9.11726,-79.69871,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
-05/12/08,09:52,7,9.11724,-79.69881,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
-05/12/08,10:02,8,9.11725,-79.69888,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
-05/12/08,10:13,9,9.11724,-79.69887,Edge,Gallery,Backyard Tree,4-6 meters,3,Top,5,
-05/12/08,10:22,10,9.11731,-79.69895,Backyard Tree,,,4-6 meters,3,Mid,3,
-05/12/08,10:31,11,9.11714,-79.69866,Gallery,,,4-6 meters,3,Mid,3,
-05/12/08,10:43,12,9.11736,-79.69836,Gallery,,,6-10 meters,4,Upper,4,
-05/12/08,10:52,13,9.11732,-79.69837,Gallery,,,6-10 meters,4,Upper,4,
-05/12/08,11:03,14,9.11736,-79.69838,Gallery,,,6-10 meters,4,Top,5,
-05/12/08,11:13,15,9.11735,-79.69837,Gallery,,,6-10 meters,4,Upper,4,
-05/12/08,11:22,16,9.11732,-79.69833,Gallery,,,6-10 meters,4,Upper,4,
-05/12/08,11:33,17,9.11733,-79.69901,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
-05/12/08,11:42,18,9.11728,-79.69907,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
-05/12/08,11:57,19,9.11732,-79.69896,Gallery,,,4-6 meters,3,Upper,4,
-05/13/08,10:12,20,9.11730,-79.69888,Gallery,,,4-6 meters,3,Mid,3,
-05/13/08,10:20,21,9.11742,-79.69904,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
-05/13/08,10:30,22,9.11735,-79.69925,Edge,Gallery,Road,< 4m,2,understory,2,
-05/13/08,10:40,23,9.11745,-79.69982,Gallery,,,4-6 meters,3,Mid,3,
-05/13/08,10:49,24,9.11758,-79.69969,Gallery,,,4-6 meters,3,Upper,4,
-05/13/08,10:58,25,9.11759,-79.69968,Gallery,,,6-10 meters,4,Upper,4,
-05/13/08,11:08,26,9.11764,-79.69961,Gallery,,,6-10 meters,4,Upper,4,
-05/14/08,11:47,27,9.11727,-79.69890,Gallery,,,4-6 meters,3,Mid,3,
-05/14/08,11:58,28,9.11719,-79.69882,Gallery,,,4-6 meters,3,Mid,3,
-05/14/08,12:06,29,9.11735,-79.69836,Gallery,,,4-6 meters,3,Mid,3,
-05/14/08,12:16,30,9.11757,-79.69808,Gallery,,,< 4m,2,Mid,3,
-05/14/08,12:26,31,9.11790,-79.69782,Gallery,,,4-6 meters,3,Upper,4,
-05/14/08,12:37,32,9.11834,-79.69799,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
-05/14/08,12:46,33,9.11834,-79.69805,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
-05/14/08,12:57,34,9.11830,-79.69796,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3,
+Group,Date,Time,Waypoint,LAT,LON,Habitat,Boundary,Boundary 2,Height Verbatim,Height Code,Canopy Level – Verbatim,Canopy Level Code
+ba,3/24/2008,8:47,137,9.117334,-79.698983,Edge,Urban,Backyard,4-6 meters,3,Mid,3
+ba,3/24/2008,8:54,138,9.117309,-79.698987,Edge,Urban,Backyard,4-6 meters,3,Mid,3
+ba,3/24/2008,9:08,139,9.117178,-79.698675,Edge,Urban,Backyard,4-6 meters,3,Mid,3
+ba,3/24/2008,9:16,140,9.117304,-79.698299,Edge,Urban,Backyard,> 6 meters,4,Top,5
+ba,3/24/2008,9:26,141,9.117342,-79.69834,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,3/24/2008,10:10,142,9.117295,-79.69838,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,3/24/2008,10:23,143,9.117386,-79.698336,Edge,Gallery,Backyard,4-6 meters,4,Upper = Superior,4
+ba,3/24/2008,10:30,144,9.117325,-79.698312,Edge,Gallery,Backyard,4-6 meters,4,Upper = Superior,4
+ba,3/24/2008,10:41,145,9.117257,-79.69834,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4
+ba,3/24/2008,10:51,146,9.117365,-79.698256,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4
+ba,3/24/2008,11:03,147,9.117401,-79.698339,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4
+ba,3/24/2008,11:13,148,9.1173,-79.698329,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4
+ba,3/24/2008,11:22,149,9.117298,-79.698347,Edge,Gallery,Backyard,4-6 meters,3,Dosel Medio,3
+ba,3/24/2008,11:32,150,9.117298,-79.698341,Edge,Gallery,Backyard,4-6 meters,3,Dosel Medio,3
+ba,3/24/2008,11:42,151,9.117353,-79.698299,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4
+ba,3/24/2008,11:51,152,9.11733,-79.698371,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4
+ba,3/24/2008,12:01,153,9.117383,-79.698307,Edge,Gallery,Backyard,6-10 meters,4,Upper = Superior,4
+ba,3/24/2008,12:11,154,9.117354,-79.698338,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/24/2008,12:22,155,9.117473,-79.69821,Edge,Gallery,Backyard,6-10 meters,4,Superior,4
+ba,3/24/2008,12:31,156,9.117419,-79.698266,Edge,Gallery,Backyard,6-10 meters,4,Superior,4
+ba,3/24/2008,12:41,157,9.117341,-79.69836,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/24/2008,12:53,158,9.117154,-79.698702,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/24/2008,13:02,159,9.117283,-79.698998,Edge,Gallery,Backyard/Grass,6-10 meters,4,Superior,4
+ba,3/24/2008,13:13,160,9.117393,-79.698962,Backyard Tree,,,4-6 meters,3,Mid,3
+ba,3/24/2008,13:20,161,9.117356,-79.698978,Edge,Backyard Tree,Backyard/Grass,4-6 meters,3,Mid,3
+ba,3/24/2008,13:33,162,9.117447,-79.699145,Edge,Gallery,Manmade,< 4m,2,sotobosque,2
+ba,3/24/2008,13:43,163,9.117387,-79.699562,Edge,Gallery,Grass,< 4m,2,sotobosque,2
+ba,3/24/2008,13:52,164,9.117559,-79.69985,Edge,Gallery,Grass,4-6 meters,3,sotobosque,2
+ba,3/24/2008,14:04,165,9.117538,-79.699846,Edge,Gallery,Grass,4-6 meters,3,Mid,3
+ba,3/24/2008,15:58,166,9.117591,-79.699391,Edge,Gallery,Grass,< 4m,2,understory,2
+ba,3/24/2008,16:08,167,9.117613,-79.699429,Edge,Gallery,Grass,< 4m,2,understory,2
+ba,3/24/2008,16:19,168,9.117546,-79.699372,Edge,Gallery,Grass,4-6 meters,3,mid canopy,3
+ba,3/24/2008,16:29,169,9.117546,-79.699459,Edge,Gallery,Backyard,> 10 meters,5,Upper,4
+ba,3/24/2008,16:39,170,9.117386,-79.699529,Edge,Gallery,Grass,> 10 meters,5,Upper,4
+ba,3/26/2008,8:02,185,9.117247,-79.698633,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4
+ba,3/26/2008,8:12,186,9.117243,-79.698591,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4
+ba,3/26/2008,8:23,187,9.117227,-79.698671,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4
+ba,3/26/2008,8:45,188,9.117227,-79.698691,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4
+ba,3/26/2008,8:46,189,9.117149,-79.698718,,,,,,,
+ba,3/26/2008,8:51,190,9.117208,-79.698658,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4
+ba,3/26/2008,9:01,191,9.117207,-79.698632,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4
+ba,3/26/2008,9:14,193,9.117326,-79.698329,Edge,Gallery,Backyard,6-10 meters,4,Upper-superior,4
+ba,3/26/2008,9:42,194,9.117363,-79.698348,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,9:52,195,9.117316,-79.698306,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,10:02,196,9.11735,-79.698335,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,10:11,197,9.117308,-79.69835,Edge,Gallery,Backyard,6-10 meters,4,Mid,3
+ba,3/26/2008,10:23,198,9.117231,-79.698624,Edge,Gallery,Backyard,6-10 meters,4,Mid,3
+ba,3/26/2008,10:32,199,9.117166,-79.698812,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/26/2008,10:42,200,9.117416,-79.699033,Edge,Gallery,Grass,4-6 meters,3,Mid,3
+ba,3/26/2008,10:52,201,9.117271,-79.698902,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,11:02,202,9.117272,-79.698898,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,11:12,203,9.117231,-79.698897,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,11:21,204,9.117192,-79.698914,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,11:31,205,9.117235,-79.698972,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,11:42,206,9.117271,-79.698542,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/26/2008,11:53,207,9.117409,-79.698316,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,12:12,208,9.117379,-79.698344,Edge,Gallery,Backyard,6-10 meters,4,Mid,3
+ba,3/26/2008,12:21,209,9.117366,-79.698322,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,12:33,210,9.117429,-79.698285,Backyard,,,6-10 meters,4,Upper,4
+ba,3/26/2008,12:42,211,9.117306,-79.698331,Backyard,,,6-10 meters,4,Upper,4
+ba,3/26/2008,12:53,212,9.117295,-79.698366,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,3/26/2008,13:02,213,9.117411,-79.698283,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,13:13,214,9.117394,-79.698293,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,13:22,215,9.117495,-79.698224,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,13:32,216,9.117417,-79.69827,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,13:41,217,9.117342,-79.698362,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,13:52,218,9.117244,-79.698458,Backyard Tree,,,6-10 meters,4,Mid,3
+ba,3/26/2008,14:01,219,9.117211,-79.698679,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/26/2008,14:11,220,9.117231,-79.698974,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/26/2008,14:22,221,9.117199,-79.698969,Edge,Gallery,Grass,6-10 meters,4,Mid,3
+ba,3/26/2008,14:31,222,9.117242,-79.69898,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/26/2008,14:41,223,9.1172,-79.698867,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/26/2008,14:54,224,9.117187,-79.698958,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/26/2008,15:03,225,9.117245,-79.699038,Edge,Gallery,Grass,6-10 meters,4,Upper,4
+ba,3/26/2008,15:13,226,9.117267,-79.698993,Edge,Gallery,Grass,4-6 meters,3,Mid,3
+ba,3/26/2008,15:22,227,9.117349,-79.698937,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/26/2008,15:32,228,9.117366,-79.698946,Backyard Tree,,,< 4m,2,Mid,3
+ba,3/26/2008,15:42,229,9.117182,-79.698845,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/26/2008,15:51,230,9.117204,-79.698872,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/26/2008,16:02,231,9.117106,-79.6989,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/26/2008,16:11,232,9.117076,-79.69893,Backyard Tree,,,< 4m,2,Mid,3
+ba,3/26/2008,16:22,233,9.116846,-79.698887,Edge,Backyard,Road,6-10 meters,4,Upper,4
+ba,3/26/2008,16:34,234,9.116645,-79.699011,Edge,Backyard,Road,< 4m,2,Mid,3
+ba,3/27/2008,7:23,235,9.116161,-79.69922,Edge,Backyard,Road,< 4m,2,understory,2
+ba,3/27/2008,7:31,236,9.116325,-79.699163,Edge,Backyard,Road,< 4m,2,understory,2
+ba,3/27/2008,7:39,237,9.116333,-79.699139,Edge,Backyard,Road,6-10 meters,4,Upper,4
+ba,3/27/2008,7:48,238,9.11634,-79.699199,Edge,Backyard,Road,6-10 meters,4,Upper,4
+ba,3/27/2008,7:57,239,9.116608,-79.699005,Edge,Backyard,Road,4-6 meters,3,Mid,3
+ba,3/27/2008,8:10,240,9.11728,-79.698958,Backyard,,,< 4m,2,Mid,3
+ba,3/27/2008,9:33,241,9.11732,-79.699048,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/27/2008,9:41,242,9.117284,-79.699004,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/27/2008,9:50,243,9.117372,-79.698967,Backyard,,,4-6 meters,3,Mid,3
+ba,3/27/2008,10:02,244,9.117405,-79.699004,Edge,Gallery,Backyard,6-10 meters,4,Mid,3
+ba,3/27/2008,10:12,245,9.117245,-79.698926,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/27/2008,10:22,246,9.117178,-79.698856,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/27/2008,10:34,247,9.117225,-79.698872,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/27/2008,10:41,248,9.117176,-79.698881,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/27/2008,10:50,249,9.117188,-79.698905,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/27/2008,11:00,250,9.117085,-79.698802,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/27/2008,11:02,251,9.11724,-79.698993,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/27/2008,11:21,252,9.117307,-79.698969,Edge,Gallery,Backyard,6-10 meters,4,Mid,3
+ba,3/27/2008,11:30,253,9.117288,-79.698454,Edge,Gallery,Backyard,6-10 meters,4,Mid,3
+ba,3/27/2008,11:41,254,9.11734,-79.698307,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/27/2008,11:51,255,9.117416,-79.698275,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/27/2008,12:01,256,9.117401,-79.698243,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/27/2008,12:10,257,9.117322,-79.698357,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,3/27/2008,12:21,258,9.117206,-79.69835,Backyard Tree,,,6-10 meters,4,Upper,4
+ba,3/27/2008,12:30,259,9.117404,-79.698307,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,3/27/2008,12:41,260,9.117476,-79.698223,Edge,Gallery,Backyard,< 4m,2,understory,2
+ba,3/27/2008,12:51,261,9.117795,-79.697997,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,3/27/2008,13:03,262,9.117851,-79.697983,Backyard Tree,,,6-10 meters,4,Mid,3
+ba,3/27/2008,13:16,263,9.118041,-79.697893,Backyard Tree,,,6-10 meters,4,Mid,3
+ba,3/27/2008,13:19,264,9.118197,-79.697823,Backyard Tree,,,6-10 meters,4,Mid,3
+ba,3/27/2008,13:30,265,9.11834,-79.698019,Backyard Tree,,,4-6 meters,3,Upper,4
+ba,3/27/2008,13:40,266,9.118549,-79.698296,Backyard Tree,,,6-10 meters,4,Mid,3
+ba,3/27/2008,13:51,267,9.11857,-79.698249,Backyard Tree,,,6-10 meters,4,Upper,4
+ba,3/27/2008,14:00,268,9.118432,-79.698327,Backyard Tree,,,6-10 meters,4,Upper,4
+ba,4/8/2008,11:45,1,9.11737,-79.69907,Backyard,,,< 4m,2,Mid,3
+ba,4/8/2008,12:04,2,9.116913,-79.698712,Backyard Tree,,,4-6 meters,3,Mid,3
+ba,4/8/2008,12:12,3,9.11693,-79.698699,Backyard Tree,,,< 4m,2,Mid,3
+ba,4/8/2008,12:36,4,9.117079,-79.698782,Backyard Tree,,,4-6 meters,3,Mid,3
+ba,4/8/2008,12:54,5,9.117165,-79.698725,Gallery,,,4-6 meters,3,Mid,3
+ba,4/8/2008,12:56,6,9.117336,-79.698937,Gallery,,,4-6 meters,3,Mid,3
+ba,4/8/2008,13:03,7,9.117322,-79.69947,Gallery,,,< 4m,2,understory,2
+ba,4/9/2008,11:41,8,9.116823,-79.698904,Backyard Tree,,,4-6 meters,3,Mid,3
+ba,4/9/2008,11:52,9,9.117327,-79.698915,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,4/9/2008,12:05,10,9.117367,-79.698954,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,4/9/2008,12:10,11,9.117246,-79.698929,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,4/9/2008,12:20,12,9.117238,-79.698886,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/9/2008,12:31,13,9.117251,-79.698862,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/9/2008,12:52,14,9.117237,-79.698877,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/9/2008,12:54,15,9.117253,-79.698895,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/9/2008,13:00,16,9.117218,-79.698878,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/9/2008,13:19,17,9.117176,-79.698891,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/9/2008,13:20,18,9.117202,-79.698914,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/9/2008,13:30,19,9.117258,-79.69896,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/9/2008,13:41,20,9.117282,-79.698946,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/11/2008,10:55,21,9.117273,-79.698369,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,4/11/2008,11:05,22,9.117278,-79.698324,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,4/11/2008,11:17,23,9.117326,-79.698938,Edge,Gallery,Backyard,< 4m,2,Mid,3
+ba,4/11/2008,11:25,24,9.117236,-79.698932,Edge,Gallery,Backyard,6-10 meters,4,Mid,3
+ba,4/11/2008,11:37,25,9.11726,-79.699029,Edge,Gallery,Backyard,4-6 meters,3,Upper,4
+ba,4/11/2008,11:45,26,9.117402,-79.699047,Gallery,,,4-6 meters,3,Mid,3
+ba,4/11/2008,12:06,27,9.117366,-79.699168,Edge,Gallery,Road,< 4m,2,understory,2
+ba,4/11/2008,12:10,28,9.11729,-79.699494,Gallery,,,< 4m,2,understory,2
+ba,4/11/2008,12:15,29,9.117465,-79.699729,Gallery,,,4-6 meters,3,Mid,3
+ba,4/11/2008,12:24,30,9.117478,-79.699662,Gallery,,,4-6 meters,3,Mid,3
+ba,4/11/2008,12:38,31,9.117484,-79.699592,Gallery,,,4-6 meters,3,Upper,4
+ba,4/11/2008,12:45,32,9.117481,-79.699592,Gallery,,,> 10 meters,5,Upper,4
+ba,4/11/2008,12:58,33,9.117495,-79.699591,Gallery,,,> 10 meters,5,Upper,4
+ba,4/11/2008,13:04,34,9.117502,-79.699546,Gallery,,,> 10 meters,5,Upper,4
+ba,4/11/2008,13:15,35,9.117403,-79.699868,Edge,Gallery,Grass,4-6 meters,3,Mid,3
+ba,4/11/2008,13:24,36,9.117321,-79.699865,Edge,Gallery,Grass,4-6 meters,3,Mid,3
+ba,4/11/2008,13:35,37,9.11736,-79.699823,Edge,Gallery,Grass,4-6 meters,3,Mid,3
+ba,4/11/2008,13:44,38,9.117437,-79.699795,Edge,Gallery,Grass,4-6 meters,3,Mid,3
+ba,4/11/2008,13:54,39,9.117438,-79.69979,Edge,Gallery,Grass,4-6 meters,3,Mid,3
+ba,4/16/2008,10:16,40,9.117274,-79.698856,Gallery,,,6-10 meters,4,Upper,4
+ba,4/16/2008,10:24,41,9.117269,-79.698883,Gallery,,,6-10 meters,4,Mid,3
+ba,4/16/2008,10:37,42,9.117251,-79.698922,Gallery,,,6-10 meters,4,Mid,3
+ba,4/16/2008,10:44,43,9.117257,-79.698925,Gallery,,,6-10 meters,4,Mid,3
+ba,4/16/2008,10:55,44,9.117256,-79.69894,Gallery,,,6-10 meters,4,Mid,3
+ba,4/16/2008,11:24,45,9.117121,-79.698822,Gallery,,,6-10 meters,4,Upper,4
+ba,4/16/2008,11:43,46,9.117202,-79.698905,Gallery,,,6-10 meters,4,Mid,3
+ba,4/16/2008,11:44,47,9.117197,-79.698922,Gallery,,,6-10 meters,4,Upper,4
+ba,4/16/2008,11:54,48,9.117205,-79.69892,Gallery,,,6-10 meters,4,Upper,4
+ba,4/16/2008,12:18,49,9.117315,-79.698931,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,4/16/2008,12:19,50,9.11716,-79.698689,Edge,Gallery,Backyard,4-6 meters,3,Mid,3
+ba,4/16/2008,12:23,51,9.117283,-79.698479,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,4/16/2008,12:35,52,9.117331,-79.698417,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,4/16/2008,12:44,53,9.117323,-79.698372,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,4/16/2008,12:54,54,9.11732,-79.698313,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,4/16/2008,13:04,55,9.117344,-79.698365,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,4/16/2008,13:13,56,9.117329,-79.698345,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,4/16/2008,13:24,57,9.117338,-79.698371,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,4/16/2008,13:34,58,9.117339,-79.698383,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,4/16/2008,13:48,59,9.117335,-79.698361,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,4/16/2008,13:57,60,9.117332,-79.69839,Edge,Gallery,Backyard,6-10 meters,4,Top,5
+ba,4/16/2008,14:03,61,9.117338,-79.698363,Edge,Gallery,Backyard,6-10 meters,4,Mid,3
+ba,4/16/2008,14:13,62,9.117231,-79.698591,Edge,Gallery,Backyard,6-10 meters,4,Upper,4
+ba,4/16/2008,14:24,63,9.117216,-79.698839,Edge,Gallery,Backyard,6-10 meters,4,Mid,3
+ba,4/16/2008,14:34,64,9.117199,-79.698868,Gallery,,,6-10 meters,4,Mid,3
+ba,4/16/2008,14:44,65,9.117428,-79.699079,Edge,Gallery,Road,4-6 meters,3,Mid,3
+ba,4/16/2008,15:02,66,9.117362,-79.699242,Edge,Gallery,Road,< 4m,2,understory,2
+ba,4/16/2008,15:04,67,9.117326,-79.699509,Edge,Gallery,Road,< 4m,2,understory,2
+ba,4/27/2008,8:54,173,9.119305,-79.696582,Forest Edge,(backyard?),,4-6 meters,3,Upper,4
+ba,4/27/2008,9:14,174,9.119407,-79.696584,Forest Edge,(backyard?),,4-6 meters,3,Upper,4
+ba,4/27/2008,9:22,175,9.119233,-79.696617,Forest Edge,(backyard?),,4-6 meters,3,Upper,4
+ba,4/27/2008,9:31,176,9.119187,-79.696666,Gallery,,,4-6 meters,3,Upper,4
+ba,4/27/2008,9:43,177,9.118997,-79.696772,Gallery,,,4-6 meters,3,Upper,4
+ba,4/27/2008,9:51,178,9.119026,-79.696781,Gallery,,,4-6 meters,3,Upper,4
+ba,4/27/2008,10:01,179,9.119009,-79.696702,Gallery,,,4-6 meters,3,Upper,4
+ba,4/27/2008,10:11,180,9.118981,-79.696728,Gallery,,,4-6 meters,3,Upper,4
+ba,4/27/2008,10:21,181,9.119009,-79.696732,Gallery,,,4-6 meters,3,Upper,4
+ba,4/27/2008,10:32,182,9.118994,-79.696698,Gallery,,,4-6 meters,3,Upper,4
+ba,4/27/2008,10:44,183,9.119001,-79.696783,Gallery,,,4-6 meters,3,Mid,3
+ba,4/27/2008,10:52,184,9.119049,-79.696966,Gallery,,,4-6 meters,3,Mid,3
+ba,4/27/2008,11:02,185,9.119103,-79.696911,Backyard Tree,,,< 4m,2,understory,2
+ba,4/27/2008,11:14,186,9.119223,-79.696592,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,11:25,187,9.119203,-79.696374,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,11:32,188,9.119233,-79.69638,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,11:42,189,9.119269,-79.696336,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,11:52,190,9.119248,-79.696451,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,12:03,191,9.119239,-79.696424,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,12:12,192,9.119339,-79.696362,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,12:21,193,9.119244,-79.696414,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,12:33,194,9.119193,-79.696481,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,12:43,195,9.119184,-79.69643,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,12:52,196,9.119243,-79.696411,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/27/2008,13:01,197,9.119257,-79.696461,Forest Edge,?,,4-6 meters,3,Mid,3
+ba,4/28/2008,9:49,1,9.119049,-79.69568,Edge,Forest,Backyard,6-10 meters,4,Mid,3
+ba,4/28/2008,10:11,2,9.118954,-79.69561,Forest,,,> 10 meters,5,Upper,4
+ba,4/28/2008,10:20,3,9.118984,-79.69561,Forest,,,> 10 meters,5,Upper,4
+ba,4/28/2008,10:30,4,9.11882,-79.69524,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,10:39,5,9.118794,-79.69531,Forest,,,> 10 meters,5,Upper,4
+ba,4/28/2008,10:49,6,9.118923,-79.69521,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,10:59,7,9.118958,-79.69531,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,11:09,8,9.11895,-79.69525,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,11:19,9,9.11897,-79.6953,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,11:29,10,9.118934,-79.69527,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,11:40,11,9.118961,-79.69526,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,11:49,12,9.118945,-79.69527,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,11:59,13,9.119,-79.69522,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,12:09,14,9.119112,-79.69531,Forest,,,4-6 meters,3,Upper,4
+ba,4/28/2008,12:20,15,9.119134,-79.69505,Forest,,,< 4m,2,understory,2
+ba,4/28/2008,12:28,16,9.11917,-79.69507,Forest,,,< 4m,2,Mid,3
+ba,4/28/2008,12:39,17,9.119142,-79.69501,Forest,,,< 4m,2,Mid,3
+ba,4/28/2008,12:49,18,9.119145,-79.69501,Forest,,,< 4m,2,Mid,3
+ba,4/28/2008,12:59,19,9.119238,-79.69501,Forest,,,< 4m,2,Mid,3
+ba,4/28/2008,13:09,20,9.119189,-79.69506,Forest,,,< 4m,2,Mid,3
+ba,4/28/2008,13:19,21,9.119176,-79.69496,Forest,,,< 4m,2,Mid,3
+ba,4/28/2008,13:29,22,9.1192,-79.69501,Forest,,,< 4m,2,Mid,3
+ba,4/28/2008,13:39,23,9.119223,-79.69482,Forest,,,4-6 meters,3,Mid,3
+ba,4/28/2008,13:49,24,9.119156,-79.69486,Forest,,,4-6 meters,3,Mid,3
+ba,5/12/2008,9:07,1,9.11689,-79.69894,Backyard Tree,,,6-10 meters,4,Upper,4
+ba,5/12/2008,9:15,2,9.11683,-79.69902,Backyard Tree,,,6-10 meters,4,Upper,4
+ba,5/12/2008,9:22,3,9.11685,-79.69895,Backyard Tree,,,6-10 meters,4,Upper,4
+ba,5/12/2008,9:33,4,9.11732,-79.69898,,,,,,,
+ba,5/12/2008,9:35,5,9.1172,-79.69891,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
+ba,5/12/2008,9:42,6,9.11726,-79.69871,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
+ba,5/12/2008,9:52,7,9.11724,-79.69881,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
+ba,5/12/2008,10:02,8,9.11725,-79.69888,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
+ba,5/12/2008,10:13,9,9.11724,-79.69887,Edge,Gallery,Backyard Tree,4-6 meters,3,Top,5
+ba,5/12/2008,10:22,10,9.11731,-79.69895,Backyard Tree,,,4-6 meters,3,Mid,3
+ba,5/12/2008,10:31,11,9.11714,-79.69866,Gallery,,,4-6 meters,3,Mid,3
+ba,5/12/2008,10:43,12,9.11736,-79.69836,Gallery,,,6-10 meters,4,Upper,4
+ba,5/12/2008,10:52,13,9.11732,-79.69837,Gallery,,,6-10 meters,4,Upper,4
+ba,5/12/2008,11:03,14,9.11736,-79.69838,Gallery,,,6-10 meters,4,Top,5
+ba,5/12/2008,11:13,15,9.11735,-79.69837,Gallery,,,6-10 meters,4,Upper,4
+ba,5/12/2008,11:22,16,9.11732,-79.69833,Gallery,,,6-10 meters,4,Upper,4
+ba,5/12/2008,11:33,17,9.11733,-79.69901,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
+ba,5/12/2008,11:42,18,9.11728,-79.69907,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
+ba,5/12/2008,11:57,19,9.11732,-79.69896,Gallery,,,4-6 meters,3,Upper,4
+ba,5/13/2008,10:12,20,9.1173,-79.69888,Gallery,,,4-6 meters,3,Mid,3
+ba,5/13/2008,10:20,21,9.11742,-79.69904,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
+ba,5/13/2008,10:30,22,9.11735,-79.69925,Edge,Gallery,Road,< 4m,2,understory,2
+ba,5/13/2008,10:40,23,9.11745,-79.69982,Gallery,,,4-6 meters,3,Mid,3
+ba,5/13/2008,10:49,24,9.11758,-79.69969,Gallery,,,4-6 meters,3,Upper,4
+ba,5/13/2008,10:58,25,9.11759,-79.69968,Gallery,,,6-10 meters,4,Upper,4
+ba,5/13/2008,11:08,26,9.11764,-79.69961,Gallery,,,6-10 meters,4,Upper,4
+ba,5/14/2008,11:47,27,9.11727,-79.6989,Gallery,,,4-6 meters,3,Mid,3
+ba,5/14/2008,11:58,28,9.11719,-79.69882,Gallery,,,4-6 meters,3,Mid,3
+ba,5/14/2008,12:06,29,9.11735,-79.69836,Gallery,,,4-6 meters,3,Mid,3
+ba,5/14/2008,12:16,30,9.11757,-79.69808,Gallery,,,< 4m,2,Mid,3
+ba,5/14/2008,12:26,31,9.1179,-79.69782,Gallery,,,4-6 meters,3,Upper,4
+ba,5/14/2008,12:37,32,9.11834,-79.69799,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
+ba,5/14/2008,12:46,33,9.11834,-79.69805,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
+ba,5/14/2008,12:57,34,9.1183,-79.69796,Edge,Gallery,Backyard Tree,4-6 meters,3,Mid,3
